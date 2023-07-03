@@ -191,7 +191,7 @@ plt.ylabel('Iris Petal Width')
 plt.savefig('assets/sql-for-data-science_01.webp', bbox_inches='tight')
 ```
 
-![SQL in Data Science](./assets/sql-for-data-science_01.webp)
+![SQL in Data Science](https://github.com/mpolinowski/sql-for-data-science/raw/master/02_machine_learning/assets/sql-for-data-science_01.webp)
 
 
 ## K-Nearest Neighbours
@@ -348,7 +348,7 @@ sns.scatterplot(
 plt.savefig('assets/sql-for-data-science_02.webp', bbox_inches='tight')
 ```
 
-![SQL in Data Science](./assets/sql-for-data-science_02.webp)
+![SQL in Data Science](https://github.com/mpolinowski/sql-for-data-science/raw/master/02_machine_learning/assets/sql-for-data-science_02.webp)
 
 
 ## K-means Clustering
@@ -485,7 +485,7 @@ sns.scatterplot(
 plt.savefig('assets/sql-for-data-science_03.webp', bbox_inches='tight')
 ```
 
-![SQL in Data Science](./assets/sql-for-data-science_03.webp)
+![SQL in Data Science](https://github.com/mpolinowski/sql-for-data-science/raw/master/02_machine_learning/assets/sql-for-data-science_03.webp)
 
 
 ## Dataset II
