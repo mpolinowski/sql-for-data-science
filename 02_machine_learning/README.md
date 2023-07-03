@@ -62,7 +62,10 @@ def create_table():
         cursor = conn.cursor()
         # create the table
         cursor.execute('''
-        CREATE TAhttps://www.youtube.com/user/Campbellteaching/videos_width FLOAT,
+        CREATE TABLE iris (
+            index SMALLINT primary key,
+            sepal_length FLOAT,
+            sepal_width FLOAT,
             petal_length FLOAT,
             petal_width FLOAT,
             target VARCHAR
